@@ -12,14 +12,21 @@ Features
    
 Usage
  1. Clone the Repository: Clone this repository to your local machine using the following command:
+    
     ```
     git clone https://github.com/your-username/caesar-cipher.git
     ```
  3. Navigate to the Directory: Enter the cloned directory:
-    ``` cd caesar-cipher ```
- 4. Run the Program: Run the Python program by executing the following command:
-    ``` python caesar_cipher.py ```
- 5. Follow the Instructions: Follow the prompts to choose whether to encrypt or decrypt a message, specify the shift value, and provide the message or filename accordingly.
+    
+    ```
+    cd caesar-cipher
+    ```
+ 5. Run the Program: Run the Python program by executing the following command:
+    
+    ```
+    python caesar_cipher.py
+    ```
+ 7. Follow the Instructions: Follow the prompts to choose whether to encrypt or decrypt a message, specify the shift value, and provide the message or filename accordingly.
 
     
 File Structure
