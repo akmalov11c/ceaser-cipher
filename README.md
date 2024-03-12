@@ -1,6 +1,7 @@
 Caesar Cipher README
 
 Introduction
+
 This repository contains a Python program that implements the Caesar Cipher encryption and decryption algorithms. 
 The Caesar Cipher is a substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
@@ -43,8 +44,10 @@ Here's an example of how to use the program:
  4. Optionally, choose to encrypt or decrypt another message.
 
 Contributions
+
 Contributions are welcome! If you have any ideas for improvement or find any issues, feel free to open an issue or submit a pull request.
 
 Acknowledgments
+
 This program is based on the Caesar Cipher algorithm.
 Inspired by educational materials on cryptography and Python programming.
