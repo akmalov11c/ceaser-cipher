@@ -9,15 +9,17 @@ Features
  - Support for reading messages from the console or from a text file.
  - Ability to specify the shift value for encryption and decryption.
  - Output results to a text file for convenience.
- - 
+   
 Usage
  1. Clone the Repository: Clone this repository to your local machine using the following command:
-    ``` git clone https://github.com/your-username/caesar-cipher.git ```
- 2. Navigate to the Directory: Enter the cloned directory:
+    ```
+    git clone https://github.com/your-username/caesar-cipher.git
+    ```
+ 3. Navigate to the Directory: Enter the cloned directory:
     ``` cd caesar-cipher ```
- 3. Run the Program: Run the Python program by executing the following command:
+ 4. Run the Program: Run the Python program by executing the following command:
     ``` python caesar_cipher.py ```
- 4. Follow the Instructions: Follow the prompts to choose whether to encrypt or decrypt a message, specify the shift value, and provide the message or filename accordingly.
+ 5. Follow the Instructions: Follow the prompts to choose whether to encrypt or decrypt a message, specify the shift value, and provide the message or filename accordingly.
 
     
 File Structure
